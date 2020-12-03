@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fugrutest/static/css/main.55261085.chunk.css",
+    "main.js": "/fugrutest/static/js/main.e68bcf0c.chunk.js",
+    "main.js.map": "/fugrutest/static/js/main.e68bcf0c.chunk.js.map",
+    "runtime-main.js": "/fugrutest/static/js/runtime-main.96091f9b.js",
+    "runtime-main.js.map": "/fugrutest/static/js/runtime-main.96091f9b.js.map",
+    "static/css/2.109aacae.chunk.css": "/fugrutest/static/css/2.109aacae.chunk.css",
+    "static/js/2.acccf187.chunk.js": "/fugrutest/static/js/2.acccf187.chunk.js",
+    "static/js/2.acccf187.chunk.js.map": "/fugrutest/static/js/2.acccf187.chunk.js.map",
+    "static/js/3.4596294f.chunk.js": "/fugrutest/static/js/3.4596294f.chunk.js",
+    "static/js/3.4596294f.chunk.js.map": "/fugrutest/static/js/3.4596294f.chunk.js.map",
+    "index.html": "/fugrutest/index.html",
+    "static/css/2.109aacae.chunk.css.map": "/fugrutest/static/css/2.109aacae.chunk.css.map",
+    "static/css/main.55261085.chunk.css.map": "/fugrutest/static/css/main.55261085.chunk.css.map",
+    "static/js/2.acccf187.chunk.js.LICENSE.txt": "/fugrutest/static/js/2.acccf187.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96091f9b.js",
+    "static/css/2.109aacae.chunk.css",
+    "static/js/2.acccf187.chunk.js",
+    "static/css/main.55261085.chunk.css",
+    "static/js/main.e68bcf0c.chunk.js"
+  ]
+}
