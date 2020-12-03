@@ -69,7 +69,7 @@ function App() {
     setSearch('')
   }
 
-  // выбираем режим получения данных (32/1000)
+  // меняем страницы с помощью пагинации
   const pageChangeHandler = ({selected}) => {
     setCurrentPage(selected)
   }
