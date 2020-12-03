@@ -1,0 +1,34 @@
+@keyframes spinner {
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+.preloader {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+
+.preloader__rotary {
+	display: block;
+  width: 74px;
+  height: 74px;
+  border: 1px solid #1e10f6;
+	border-bottom-color: #888;
+	border-radius: 50%;
+	margin: auto;
+	animation: spinner .75s infinite linear;
+}
+
+.preloader__text {
+  margin-top: 24px;
+  margin-bottom: 0;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  color: #b6bcbf;
+  text-align: center;
+}

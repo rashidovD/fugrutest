@@ -1,0 +1,10 @@
+
+.button__container {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+.button__container button {
+  margin: 0 5px 0;
+}
